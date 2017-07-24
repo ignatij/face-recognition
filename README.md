@@ -25,6 +25,6 @@ To start recognizing:
 ```python
 op.train_and_run(webcam, detector)
 ```
- - execute app.py
+ - execute app.py (Press ESC to exit)
 
 ***
