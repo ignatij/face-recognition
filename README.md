@@ -10,6 +10,7 @@ Simple face recognition system based on OpenCV 3.2.0 and Python 3.5.2.
  - recognition with LBPH (Local Binary Patterns Histogram)
 
 There are exactly 10 images per person, and they are stored in src/persons/{person_name} folder.
+<br/>
 To add new person:
  - open app.py and uncomment the following line
 ```python
