@@ -1,4 +1,4 @@
-# Simple face recognition system
+# Real time webcam face recognition system
 
 ![demo](demo.gif)
 
